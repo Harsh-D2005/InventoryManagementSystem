@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="InventoryManagementApp" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.inventory.Main" />
+    <module name="InventoryManagementSystem" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\javafx-sdk-23.0.2\lib&quot; --add-modules javafx.controls,javafx.fxml " />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
