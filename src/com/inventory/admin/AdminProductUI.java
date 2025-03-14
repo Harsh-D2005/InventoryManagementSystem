@@ -294,8 +294,8 @@ public class AdminProductUI {
         Scene scene = new Scene(layout, 900, 650);
         stage.setScene(scene);
         stage.setTitle("Manage Products");
-        stage.setWidth(900);
-        stage.setHeight(700);
+        stage.setWidth(1200);
+        stage.setHeight(720);
         stage.setResizable(true);
         stage.show();
     }
